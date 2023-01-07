@@ -3,7 +3,7 @@ This is a simple calculator web application that allows users to perform basic a
 
 # Features
 Addition.
-Subtraction.
+Subtr action.
 Multiplication.
 Division.
 Clear button to reset the calculator.
