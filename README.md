@@ -2,11 +2,11 @@
 This is a simple calculator web application that allows users to perform basic arithmetic operations. It was built using JavaScript and DOM events.
 
 # Features
-Addition
-Subtraction
-Multiplication
-Division
-Clear button to reset the calculator
+Addition.
+Subtraction.
+Multiplication.
+Division.
+Clear button to reset the calculator.
 
 # How to use
 1. Click the first number you want to calculate in the input field.
